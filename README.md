@@ -17,3 +17,7 @@ standard command
 
 git 和 svn 最大的区别就是一个是分布式，一个是中心式管理，根本就是 git的没有中心的概念，全部都是仓库，也就是你的历史记录，变动
 每个仓库都有，中心仓库目前主要应用在一些大的游戏上面，因为媒体资源很大，由服务器统一管理
+
+git checkout [ branch ]
+
+git merge [ branch ]  合并 [ branch ] 到当前分支
