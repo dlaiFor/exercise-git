@@ -24,3 +24,5 @@ git checkout [ branch ]
 
 git merge [ branch ]  合并 [ branch ] 到当前分支
 
+git branch -d [ branch ]  删除本地分支
+
